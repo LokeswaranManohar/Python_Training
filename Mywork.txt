@@ -1,0 +1,4 @@
+(Python for Test Automation).              https://testautomationu.applitools.com/python-tutorial/
+(Introduction to pytest)                                 https://testautomationu.applitools.com/pytest-tutorial/
+(selenium-webdriver-python).                      https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
+(behavior-driven-python-with-pytest-bdd.) https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/
