@@ -13,7 +13,6 @@ class CucumberBasket:
     def count(self):
         return self._count
 
-
     @property
     def full(self):
         return self.count == self.max_count
